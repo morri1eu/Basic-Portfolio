@@ -102,3 +102,7 @@ img{
 .img3{
     clear: both;
 }
+.name:hover{
+    background-color: #ffffff;
+    color: #4aaaa5;
+}
